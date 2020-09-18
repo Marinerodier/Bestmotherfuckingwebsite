@@ -1,0 +1,42 @@
+body 
+{
+    font-size: large; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    line-height: 1.6;
+    margin: 70px auto ;
+    padding: 0 10px ;
+    color: white ;
+    background-color: black ;
+    text-align : justify;
+}
+h1, h2, h3
+{
+    line-height: 1.2 ;
+}
+h1,h2,h3, p
+{
+    margin-left: 40px;
+    margin-right: 40px;
+
+}p span
+{
+    color: darkred;
+    text-decoration: underline;
+}
+.motherfuckingwebsites
+{
+    color: red;
+}
+
+.shittyblue
+{
+    color: blue;
+}
+.violetishcolor
+{
+    color: purple;
+}
+.mini
+{
+    font-size:xx-small ;
+}
